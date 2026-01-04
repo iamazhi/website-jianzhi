@@ -12,7 +12,12 @@ website/
 ├── css/
 │   └── style.css       # 样式文件
 ├── js/                 # JavaScript 目录（当前未使用）
-└── README.md           # 本文件
+├── docs/               # 文档目录
+│   ├── README.md       # 项目说明（本文件）
+│   ├── DEPLOY.md       # 部署指南
+│   └── UNIVERSAL_LINKS_SETUP.md  # Universal Links 配置指南
+└── .well-known/        # Universal Links 配置文件
+    └── apple-app-site-association
 ```
 
 ## 使用说明

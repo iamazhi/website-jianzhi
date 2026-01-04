@@ -79,8 +79,9 @@ python3 -m http.server 8000
 - `privacy.html` - 隐私政策页面
 - `css/style.css` - 样式文件
 - `images/` - 图片资源目录
-- `README.md` - 项目说明
-- `DEPLOY.md` - 本部署指南
+- `docs/README.md` - 项目说明
+- `docs/DEPLOY.md` - 本部署指南
+- `docs/UNIVERSAL_LINKS_SETUP.md` - Universal Links 配置指南
 
 ## 注意事项
 
