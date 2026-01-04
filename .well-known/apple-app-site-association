@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2MS8AAKD34.com.iazhi.jianzhi",
+        "paths": [
+          "/app/*",
+          "/jiandi/*"
+        ]
+      }
+    ]
+  }
+}
+
