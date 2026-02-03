@@ -291,8 +291,10 @@ body {
     font-size: 0.9rem;
 }
 
-.footer-copyright a {
-    color: white;
+.footer-copyright a,
+.footer-copyright a:link,
+.footer-copyright a:visited {
+    color: white !important;
     text-decoration: none;
     opacity: 0.9;
 }
